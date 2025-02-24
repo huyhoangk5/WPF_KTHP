@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|c:\\users\\admin\\source\\repos\\kthp1\\kthp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|solutionrelative:kthp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|c:\\users\\admin\\source\\repos\\kthp1\\kthp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|solutionrelative:kthp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|c:\\users\\admin\\source\\repos\\kthp1\\kthp1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|solutionrelative:kthp1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|c:\\users\\admin\\source\\repos\\kthp1\\kthp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{434E86A8-EBF3-4B12-9784-F55809E1CFAC}|KTHP1\\KTHP1.csproj|solutionrelative:kthp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,49 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Window1.xaml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\Window1.xaml",
               "RelativeDocumentMoniker": "KTHP1\\Window1.xaml",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\Window1.xaml",
               "RelativeToolTip": "KTHP1\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-22T04:30:13.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T04:30:13.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\App.xaml",
               "RelativeDocumentMoniker": "KTHP1\\App.xaml",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\App.xaml",
               "RelativeToolTip": "KTHP1\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-22T02:05:08.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T02:05:08.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KTHP1\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\MainWindow.xaml",
               "RelativeToolTip": "KTHP1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-22T01:44:36.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T01:44:36.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KTHP1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\KTHP1\\KTHP1\\MainWindow.xaml.cs",
               "RelativeToolTip": "KTHP1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv5MAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T01:44:34.932Z",
               "EditorCaption": ""

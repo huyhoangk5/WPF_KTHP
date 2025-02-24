@@ -78,3 +78,4 @@ C:\Users\ADMIN\source\repos\KTHP1\KTHP1\obj\Debug\net6.0-windows\ref\KTHP1.dll
 C:\Users\ADMIN\source\repos\KTHP1\KTHP1\obj\Debug\net6.0-windows\App.baml
 C:\Users\ADMIN\source\repos\KTHP1\KTHP1\obj\Debug\net6.0-windows\Window1.g.cs
 C:\Users\ADMIN\source\repos\KTHP1\KTHP1\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\ADMIN\source\repos\KTHP1\KTHP1\obj\Debug\net6.0-windows\KTHP1.sourcelink.json

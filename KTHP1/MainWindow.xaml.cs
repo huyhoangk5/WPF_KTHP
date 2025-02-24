@@ -141,6 +141,15 @@ namespace KTHP1
                 txtMSP.Focus();
                 return false;
             }
+            foreach(var sp in db.SanPhams)
+            {
+                if(sp.MaSp == txtMSP.Text)
+                {
+                    MessageBox.Show("Mã sản phẩm đã tồn tại", "Lỗi nhập dữ liệu", MessageBoxButton.OK, MessageBoxImage.Error);
+                    txtMSP.Focus();
+                    return false;
+                }
+            }
             if (txtTSP.Text == "")
             {
                 MessageBox.Show("Bạn chưa tên mã sản phẩm", "Lỗi nhập dữ liệu", MessageBoxButton.OK, MessageBoxImage.Error);
